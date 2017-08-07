@@ -1,2 +1,2 @@
-# dymanic_programming
-Simple functions that use dynamic programming
+# Dymanic Programming
+Simple functions that use dynamic programming.
